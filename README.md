@@ -24,10 +24,7 @@ OTP: 123455
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/76583677/229296534-1d135eab-8ed5-4563-acad-aeea497e1ce0.jpg" width="180" height="400">
-<img src="https://user-images.githubusercontent.com/76583677/229296536-cad5da2e-f86d-4f6e-b12a-ae501cec2d1e.jpg" width="180" height="400"> 
-<img src="https://user-images.githubusercontent.com/76583677/229296538-1a8b090b-af58-401c-ac4a-2b57c59f82aa.jpg" width="180" height="400">
-<img src="https://user-images.githubusercontent.com/76583677/229296541-56ec2a75-45db-486d-a591-9199143ebed8.jpg" width="180" height="400">
+<img src="https://user-images.githubusercontent.com/76583677/229296534-1d135eab-8ed5-4563-acad-aeea497e1ce0.jpg" width="180" height="400">  <img src="https://user-images.githubusercontent.com/76583677/229296536-cad5da2e-f86d-4f6e-b12a-ae501cec2d1e.jpg" width="180" height="400">   <img src="https://user-images.githubusercontent.com/76583677/229296538-1a8b090b-af58-401c-ac4a-2b57c59f82aa.jpg" width="180" height="400">  <img src="https://user-images.githubusercontent.com/76583677/229296541-56ec2a75-45db-486d-a591-9199143ebed8.jpg" width="180" height="400">
 
 
 
