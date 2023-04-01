@@ -10,7 +10,7 @@ Flutter, Firebase, Dart. Implemented OTP FirebaseAuth, resend OTP function after
 
 ## Problems
 
-Although I have implemented auto SMS retrieval API but since google has deprecated Android Device Verification API, Auto fetch for new projects is not possible, there is a solution but requires filling up a form from google support which upgrades the project with this feature but takes about 3 weeks so I was unable to get this working sorry.
+Although I have implemented auto SMS retrieval API but since google has deprecated Android Device Verification API, Auto fetch for new projects is not possible, there is a solution but requires filling up a form from google support which upgrades the project with this feature but takes about 3 weeks so I tried a lot but was unable to get this working sorry.
 
 Reference: https://stackoverflow.com/questions/75447198/validate-phone-authentication-without-showing-the-recaptcha-on-android-in-februa
 
