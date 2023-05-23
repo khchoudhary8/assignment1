@@ -5,14 +5,19 @@
 
 ## Description
 
-Flutter, Firebase, Dart. Implemented OTP FirebaseAuth, resend OTP function after 30 seconds, If incorrect OTP entered 5 times then pause for 10 seconds, 10 Digit phone number verification. Used Firebase Db to write/ read user data, can use GetX or RiverPod for local changes if have more time for implementation.
+Flutter, Firebase, Dart. Implemented OTP FirebaseAuth, resend OTP function after 30 seconds, If incorrect OTP entered 5 times then pause for 10 seconds, 10 Digit phone number verification. Used Firebase Db to write/ read user data, can use GetX or RiverPod in future.
 
 
 ## Problems
 
-Although I have implemented auto SMS retrieval API but since google has deprecated Android Device Verification API, Auto fetch for new projects is not possible, there is a solution but requires filling up a form from google support which upgrades the project with this feature but takes about 3 weeks so I tried a lot but was unable to get this working sorry.
+Although I have implemented auto SMS retrieval API but since google has deprecated Android Device Verification API, Auto fetch for new projects is not possible.
 
 Reference: https://stackoverflow.com/questions/75447198/validate-phone-authentication-without-showing-the-recaptcha-on-android-in-februa
+
+
+## How to run
+
+Clone the repo, install flutter and dart. Install VS Code, Use flutter doctor command to resolve problems with flutter on your system. Use flutter to run the application.
 
 
 ## Demo
